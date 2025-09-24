@@ -124,3 +124,4 @@ Create a `config.json` file to customize training:
 }
 ```
 
+<img width="2547" height="1387" alt="Screenshot 2025-09-24 011757" src="https://github.com/user-attachments/assets/c80adada-f36b-4235-a058-42274201052a" />
