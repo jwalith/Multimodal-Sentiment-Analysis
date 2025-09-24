@@ -1,0 +1,15 @@
+{
+  "clip_model": "openai/clip-vit-base-patch32",
+  "bert_model": "cardiffnlp/twitter-roberta-base-sentiment-latest",
+  "max_text_length": 512,
+  "num_classes": 3,
+  "fusion_method": "attention",
+  "hidden_dim": 256,
+  "dropout": 0.3,
+  "batch_size": 32,
+  "num_epochs": 50,
+  "learning_rate": 0.001,
+  "weight_decay": 1e-4,
+  "data_dir": "data",
+  "output_dir": "models"
+}
